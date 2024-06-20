@@ -24,7 +24,7 @@ The script can be used to convert individual models or batch convert multiple mo
 
 #### Convert Single Model or Multipl Models:
 
-1. Run convert.bat:
+1. Run convert.bat
 2. Copy the model(s) file (.bin, .pt, or .pth) directory_path you wish to convert.
 3. Follow the cmd prompts:
 
