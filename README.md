@@ -53,8 +53,8 @@ Would you like to convert another model or models to .safetensors? (Y/N): N
 ### Features:
 
 - Supports converting individual PyTorch model files (.bin, .pt, .pth) to SafeTensors format.
-- Supports batch conversion of multiple models in a directory and its subdirectories.
-- Converts models in-place if the user chooses to delete the old PyTorch files.
+- Supports batch conversion of multiple models in a directory and it's subdirectories.
+- Converts models in-place unless the user chooses to copy in a different output folder path.
 
 ### Limitations:
 
