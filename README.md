@@ -10,12 +10,16 @@ A simple converter which converts PyTorch model files (.bin, .pt, .pth) to SafeT
 
 ### Installation:
 
-To use this converter, you need to have Python installed, if you arleady have Python installed simply run the install.bat file.
+To use this converter you need to have Python installed, if you arleady have Python installed simply paste the following into cmd & you'll be all set to convert!
 
 ```
 git clone https://github.com/MackinationsAi/convert-2-safetensors.git
-navigate to your convert-2-safetensors repo
-run install.bat
+```
+```
+cd convert-2-safetensors repo
+```
+```
+install.bat
 ```
 
 ### Usage:
