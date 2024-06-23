@@ -71,3 +71,4 @@ Would you like to convert another model or models to .safetensors? (Y/N): N
 - Most of the code originated from [Convert to Safetensors - a Hugging Face Space by safetensors.](https://huggingface.co/spaces/safetensors/convert).
 - This github repo also used portions of code from [Silver267's - pytorch-to-safetensor-converter repo.](https://github.com/Silver267/pytorch-to-safetensor-converter)
 - The script has been enhanced to handle various model file formats and support batch conversion across subdirectories.
+- In the coming weeks, I plan to update this repo to alloow users to choose between fp16, fp32, bf16 & tf32 precisions for better fitting as well as faster training.
